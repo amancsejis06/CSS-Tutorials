@@ -41,4 +41,4 @@
 
  + id selector has higher weightage than class selector and class selector has higher weightage than element selector.
    ID selector > Class selector > Element selector
- + !important is override 
+ + !important is override other CSS selector properties.
