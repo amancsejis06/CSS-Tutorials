@@ -42,3 +42,10 @@
  + id selector has higher weightage than class selector and class selector has higher weightage than element selector.
    ID selector > Class selector > Element selector
  + !important is override other CSS selector properties.
+
+ ## Chapter - 03 CSS Colors
+   color: color_name/rgb/rgba/hsl/hsla/hexacode(#ffffff/#fff)
+
+## Chapter-04 CSS Units
+px(pixel), % - Percent, rem, 
+

@@ -1,0 +1,19 @@
+body{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: blanchedalmond;
+    color:hwb(338 16% 13% / 0.878)
+}
+
+#article1{
+    background-color: #fff;
+    color: #E51F1F;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 2rem;
+}
+
+#article1 h1{
+    text-align: center;
+}
